@@ -5,12 +5,14 @@ import gallery3 from "@/assets/gallery/photo3.jpg";
 import gallery4 from "@/assets/gallery/photo4.jpg";
 import gallery5 from "@/assets/gallery/photo5.jpg";
 import gallery6 from "@/assets/gallery/photo6.jpg";
+import gallery7 from "@/assets/gallery/photo7.jpg";
 
 const galleryImages = [
   { src: gallery1, label: "La salle" },
   { src: gallery2, label: "La salle" },
   { src: gallery3, label: "Nos plats" },
   { src: gallery4, label: "Nos plats" },
+  { src: gallery7, label: "Nos plats" },
   { src: gallery5, label: "Nos plats" },
   { src: gallery6, label: "Nos plats" },
 ];
